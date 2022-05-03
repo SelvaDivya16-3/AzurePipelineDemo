@@ -7,7 +7,7 @@ trigger:
 - '*'
 
 pool:
-  name: VM-2
+  name: 'Azure Pipelines'
 
 steps:
 - task: Maven@3
